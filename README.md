@@ -1,8 +1,6 @@
 - 👋 Hello World!, I’m @nikola4512
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning data engineering
-- 💞️ I’m looking to collaborate on project with data
-- 📫 How to reach me just contact my twiter
+- 🌱 I’m know python and javascript
 
 <!---
 nikola4512/nikola4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
