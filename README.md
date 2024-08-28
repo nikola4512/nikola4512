@@ -6,7 +6,8 @@
 + Generative AI/LLM
 
 # 🚀 How to reach me:
-- Email: [GitHub Pages](mailto:nikolaarinanda01@gmail.com).
+- Email: [nikolaarinanda01@gmail.com](mailto:nikolaarinanda01@gmail.com)
+- Linkedin: [nikola-arinanda](https://www.linkedin.com/in/nikola-arinanda/)
 
 <!---
 nikola4512/nikola4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
