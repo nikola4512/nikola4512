@@ -14,8 +14,10 @@
 - Email: [nikolaarinanda01@gmail.com](mailto:nikolaarinanda01@gmail.com)
 - Linkedin: [nikola-arinanda](https://www.linkedin.com/in/nikola-arinanda/)
 
+
 <hr>
 </hr>
+
 2024 - Nikola Arinanda
 
 <!---
