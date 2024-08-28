@@ -1,5 +1,8 @@
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=dracula)  
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+</p>
+
 
 # 🔍 Currently Learning:
 + Full stack web development, with JS and PHP
