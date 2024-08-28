@@ -18,7 +18,9 @@
 <hr>
 </hr>
 
-2024 - Nikola Arinanda
+<div align="center" dir="auto">
+  2024 - Nikola Arinanda
+</div>
 
 <!---
 nikola4512/nikola4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
