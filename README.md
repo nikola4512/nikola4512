@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=radical))
 
 - 👋 Hello World!, I’m @nikola4512
 - 👀 I’m interested in AI
