@@ -1,7 +1,7 @@
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="Gading Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=dracula" style="max-width: 100%;"></a>
   <br><br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="Gading Github Stats" src="https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="Gading Github Stats" src="https://komarev.com/ghpvc/?username=nikola4512&color=ff69b4" style="max-width: 100%;"></a>
 </div>
 
 # 🔍 Currently Learning:
