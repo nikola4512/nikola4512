@@ -1,10 +1,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=dracula)
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
+# 🔍 Currently Learning:
++ Full stack web development, with JS and PHP
++ Generative AI/LLM
+
 # 🚀 How to reach me:
-- 👋 Hello World!, I’m @nikola4512
-- 👀 I’m interested in AI
-- 🌱 I’m know HTML, CSS, JS and some PHP,Python
+- Email: [GitHub Pages](mailto:nikolaarinanda01@gmail.com).
 
 <!---
 nikola4512/nikola4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
