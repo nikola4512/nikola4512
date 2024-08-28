@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="Gading Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=dracula" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="Gading Github Stats" src="https://github-readme-stats.vercel.app/api?username=nikola4512&show_icons=true&theme=dracula" style="max-width: 100%;"></a>
   <br><br>
   
 </div>
