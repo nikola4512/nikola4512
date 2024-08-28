@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 - 👋 Hello World!, I’m @nikola4512
 - 👀 I’m interested in AI
 - 🌱 I’m know HTML, CSS, JS and some PHP,Python
