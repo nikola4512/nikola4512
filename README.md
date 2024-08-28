@@ -15,9 +15,8 @@
 - Linkedin: [nikola-arinanda](https://www.linkedin.com/in/nikola-arinanda/)
 
 <hr>
-  ::before
-  ::after
 </hr>
+2024 - Nikola Arinanda
 
 <!---
 nikola4512/nikola4512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
